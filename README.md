@@ -1,4 +1,12 @@
-[![Build Status](https://travis-ci.org/souly1/ng-walkthrough.svg?branch=master)](https://travis-ci.org/souly1/ng-walkthrough)
+[![Build Status](https://travis-ci.org/sopraux/ionic-ng-walkthrough.svg?branch=master)](https://travis-ci.org/sopraux/ionic-ng-walkthrough)
+
+# Description #
+
+This is an extension of Angular ng-walkthrough and an adaptation to Ionic framework that makes the plugin available to search an element or text in any position
+
+- [Repository ng-walkthrough](https://github.com/souly1/ng-walkthrough)
+
+Credits to Sopra Steria Digital SC team <digital@sopra.com>
 
 # ng-walkthrough
 

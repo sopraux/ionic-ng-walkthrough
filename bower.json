@@ -1,9 +1,11 @@
 {
-  "name": "ng-walkthrough-ionic",
-  "version": "0.4.2",
-  "homepage": "https://github.com/souly1/ng-walkthrough",
+  "name": "ionic-ng-walkthrough",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sopraux/ionic-ng-walkthrough",
   "authors": [
-    "Ophir Stern <souly01@gmail.com>"
+    "Ophir Stern <souly01@gmail.com>",
+    "Ariadna Gomez <ari.grr@gmail.com>",
+    "Sopra Steria Digital SC <digital@sopra.com>"
   ],
   "main": "ng-walkthrough.js",
   "description": "One of the most common design challenges emerging in mobile design is that of 'invitation' - creating an explanation walk through during user first interaction with the app so to engage the customer. Following Theresa Neil's design pattern from Mobile Design Pattern Gallery",
